@@ -1,0 +1,7 @@
+{{ with .Params.hide_footer }}
+ <!-- No footer here! -->
+{{ else }}
+ <footer>
+   <p>last updated on {{ now.Format "2006-01-02" }} by {{ .Site.Params.name }}</p>
+ </footer>
+{{ end }}

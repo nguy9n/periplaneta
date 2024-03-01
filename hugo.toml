@@ -1,0 +1,9 @@
+baseURL = 'https://periplaneta.neocities.org/'
+languageCode = 'en-us'
+title = 'the periplaneta planet'
+
+[params]
+name = 'leonardo'
+
+[outputs]
+  home = ["HTML", "RSS"]

@@ -1,0 +1,25 @@
+
+<!doctype html>
+<html>
+<head>
+ {{ partial "meta.html" . }}
+</head>
+
+<style>
+body {
+  text-align: center;
+  font-size: 5em;
+}
+</style>
+
+{{ $fml := resources.Get "images/fml.gif" }}
+    
+<div class="dew">
+<body>
+ <p>oops. uh...<br>
+ <img src="{{ $fml.RelPermalink }}" alt="fuck my life hitting floor" title="me toooooo"><br>
+ <a href="https://periplaneta.neocities.org/">go back</a>
+ </p>
+</body>
+</div>
+</html>

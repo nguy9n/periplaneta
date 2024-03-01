@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+ {{ partial "meta.html" . }}
+</head>
+
+<div class="dew">
+<body>
+ <div class="container">
+  {{ partial "header.html" }}
+  <div class="middle">
+    {{ partial "nav.html" }}
+      <main-content>
+        {{ block "main" . }}
+        {{ end }}
+      </main-content>
+        {{ partial "footer.html" . }}
+    </div>
+    <div class="sidebar-left">
+      {{ partial "log.html" }}
+      {{ partial "music.html" }}
+    </div>
+    <div class="sidebar-right">
+      {{ partial "button.html" }}
+      {{ partial "blinkies.html" }}
+    </div>
+ </div>
+</body>
+</div>
+</html>

@@ -1,0 +1,40 @@
+<meta charset="utf-8">
+<title>{{ print .Site.Title " | " .Page.Title }}</title>
+{{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.Minify }}
+<link rel="stylesheet" href="{{ $style.Permalink }}">
+{{ $roach := resources.Get "images/roach.gif" }}
+{{ $stars_bg := resources.Get "images/stars_bg.gif" }}
+{{ $dew_arrow := resources.Get "cursors/dew_arrow.cur" }}
+{{ $dew_beam := resources.Get "cursors/dew_beam.cur" }}
+{{ $dew_help := resources.Get "cursors/dew_help.cur" }}
+<link rel="icon" type="image/gif" href="{{ $roach.RelPermalink }}"/>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+<style>
+  body {
+    background-image: url('{{ $stars_bg.RelPermalink }}');
+  }
+  
+  .dew {
+    cursor: url('{{ $dew_arrow.RelPermalink }}'), auto;
+    
+    img {
+      &:hover {
+        cursor: url('{{ $dew_arrow.RelPermalink }}'), auto;
+      }
+    }
+    
+    p, h1, h2, ul {
+      &:hover {
+        cursor: url('{{ $dew_beam.RelPermalink }}'), text;
+      }
+    }
+    
+    a {
+      &:hover {
+        cursor: url('{{ $dew_help.RelPermalink }}'), pointer;
+      }
+    }
+  }
+</style>

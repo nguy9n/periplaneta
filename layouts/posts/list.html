@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <p>
+  <img src="/img/born2post.gif" alt="born to post" title="born to post">
+  </p>
+  <h2>bear witness to my sins</h2>
+  <ul>
+  {{ range .Pages }}
+    <li>
+      <a href="{{ .Permalink }}">{{ .Title }}</a> - {{ .Date.Format "2006-01-02" }}
+    </li>
+  {{ end }}
+  </ul>
+{{ end }}
