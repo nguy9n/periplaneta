@@ -15,7 +15,7 @@ i'm a big fan of microbiology (so much so that i got a degree in it),
 but i'm a sucker for insects and other inverts, too! deep space nine is my favorite
 star trek series, and the only star wars movie i can remember the plot to is
 the star wars holiday special. my favorite wikipedia page is
-[The Cetology of Moby Dick](https://en.wikipedia.org/wiki/Cetology_of_Moby-Dick),
+*[The Cetology of Moby Dick](https://en.wikipedia.org/wiki/Cetology_of_Moby-Dick)*,
 and i love discussing how all tetrapods are taxonomically fish.
 i'm currently learning [colemak-dh](https://colemak.org/),
 but will admit that i coded all this using qwerty.
