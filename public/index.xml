@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>home on the periplaneta planet</title>
-    <link>http://localhost:1313/</link>
+    <link>https://periplaneta.neocities.org/</link>
     <description>Recent content in home on the periplaneta planet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://periplaneta.neocities.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>the website has launched!</title>
-      <link>http://localhost:1313/posts/2024-03-01_launch/</link>
+      <link>https://periplaneta.neocities.org/posts/2024-03-01_launch/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024-03-01_launch/</guid>
+      <guid>https://periplaneta.neocities.org/posts/2024-03-01_launch/</guid>
       <description>well, not quite yet. i still need to actually push a git commit and then push the site to neocities. and then hope that nothing breaks in the process. but the finish line is so, so close! for reference, i started this project around this time last year, but was too busy to actually get any progress made. at the time i was still using windows on my home setup, so i had to use wsl to work with jekyll, which was unbelievably janky.</description>
     </item>
     <item>
       <title>test</title>
-      <link>http://localhost:1313/posts/2024-02-27_test/</link>
+      <link>https://periplaneta.neocities.org/posts/2024-02-27_test/</link>
       <pubDate>Tue, 27 Feb 2024 13:40:51 -0700</pubDate>
-      <guid>http://localhost:1313/posts/2024-02-27_test/</guid>
+      <guid>https://periplaneta.neocities.org/posts/2024-02-27_test/</guid>
       <description>cock penis balls lol</description>
     </item>
     <item>
       <title>about</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://periplaneta.neocities.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://periplaneta.neocities.org/about/</guid>
       <description>about the webmaster howdy! my name is leonardo, and i&amp;rsquo;m the person who runs this monstrosity. the bulk of my experience with html and css was with the &amp;ldquo;about me&amp;rdquo; creation gui of fanfiction/quiz website quotev dot com back in the early-mid 2010s, so i&amp;rsquo;m practically an expert at web design. when i was in middle school, i took a java class online and hated it so much that i swore i would never touch a piece of code again, but it turns out coding is kind of fun when you&amp;rsquo;re doing it for completely inconsequential bullshit.</description>
     </item>
   </channel>
