@@ -2,32 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on the periplaneta planet</title>
-    <link>https://periplaneta.neocities.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in blog on the periplaneta planet</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://periplaneta.neocities.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Sep 2024 21:45:25 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>haha whoops six months later</title>
+      <link>http://localhost:1313/posts/2024-09-10_september-2024-update/</link>
+      <pubDate>Tue, 10 Sep 2024 21:45:25 -0700</pubDate>
+      <guid>http://localhost:1313/posts/2024-09-10_september-2024-update/</guid>
+      <description>&lt;p&gt;currently listening 2!!! &lt;em&gt;Quietly Now! Liver! Lung! Fr!&lt;/em&gt;&#xA;the frightened rabbit live album from 2008. been listening to a lot&#xA;of frightened rabbit this year - and, consequently, been thinking a lot&#xA;about scott hutchison, which may or may not be concerning.&#xA;live albums are a gem, btw, and i think we should&#xA;have more of them, as a society. and albums in general. music! :+)&#xA;especially love &lt;em&gt;Quietly Now! Liver! Lung! Fr!&lt;/em&gt; - scott is such a great&#xA;performer &amp;amp; perhaps selfishly, all my favorite FR songs are on it.&#xA;i did not mean to start this off by talking at length about FR, but alas.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>developing my first roll of film with caffenol</title>
-      <link>https://periplaneta.neocities.org/posts/2024-03-18_caffenol/</link>
+      <link>http://localhost:1313/posts/2024-03-18_caffenol/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://periplaneta.neocities.org/posts/2024-03-18_caffenol/</guid>
-      <description>on saturday, my blood pressure dropped out of nowhere and i passed out, twice, hitting my face, hard, onto the kitchen floor, bruising my zygomatic in the process. i may have had a concussion - it was way too bright when i walked to the grocery store, suggesting my pupils weren&amp;rsquo;t constricting properly? anyway - on sunday, i developed my first roll of film.&#xA;it was a roll i&amp;rsquo;ve had for a while now - of the cheapest 35mm film you can find at your local superstore: fujicolor superia 400 - and it expired back in june 2019.</description>
+      <guid>http://localhost:1313/posts/2024-03-18_caffenol/</guid>
+      <description>&lt;p&gt;on saturday, my blood pressure dropped out of nowhere and i passed out,&#xA;twice, hitting my face, hard, onto the kitchen floor,&#xA;bruising my zygomatic in the process. i may have had a concussion -&#xA;it was way too bright when i walked to the grocery store, suggesting my pupils&#xA;weren&amp;rsquo;t constricting properly? anyway - on sunday, i developed my first roll of film.&lt;/p&gt;&#xA;&lt;p&gt;it was a roll i&amp;rsquo;ve had for a while now - of the cheapest 35mm film you can find at&#xA;your local superstore: fujicolor superia 400 - and it expired back in june 2019.&#xA;i don&amp;rsquo;t know why it took me over five years to finish a roll, but i guess it&amp;rsquo;s because&#xA;cell phones exist. the film was shot on a nikon point &amp;amp; shoot that used&#xA;to belong to my parents. looks like you can buy a used one for about thirty bucks on ebay.&lt;/p&gt;</description>
     </item>
     <item>
       <title>the website has launched!</title>
-      <link>https://periplaneta.neocities.org/posts/2024-03-01_launch/</link>
+      <link>http://localhost:1313/posts/2024-03-01_launch/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://periplaneta.neocities.org/posts/2024-03-01_launch/</guid>
-      <description>well, not quite yet. i still need to actually push a git commit and then push the site to neocities. and then hope that nothing breaks in the process. but the finish line is so, so close! for reference, i started this project around this time last year, but was too busy to actually get any progress made. at the time i was still using windows on my home setup, so i had to use wsl to work with jekyll, which was unbelievably janky.</description>
+      <guid>http://localhost:1313/posts/2024-03-01_launch/</guid>
+      <description>&lt;p&gt;well, not quite yet. i still need to actually push a git commit and &lt;em&gt;then&lt;/em&gt; push the site&#xA;to neocities. and then hope that nothing breaks in the process. but the finish line is&#xA;so, so close! for reference, i started this project around this time last year, but&#xA;was too busy to actually get any progress made. at the time i was still using windows&#xA;on my home setup, so i had to use wsl to work with jekyll, which was unbelievably janky.&#xA;i also have a profound habit of distro-hopping, but in a way where i&#xA;regularly just wipe my drives in the process,&#xA;so the original files are all very much gone. but anyway,&#xA;now i&amp;rsquo;m &lt;em&gt;!!unemployed!!&lt;/em&gt; and running mxfb on my laptop, so&#xA;i&amp;rsquo;ve got plenty of time and working with hugo was a bit&#xA;of a smoother process. i still need to figure out how to make the rss and sitemap&#xA;xml pages not look like shit. or are they supposed to look like shit? i don&amp;rsquo;t know.&#xA;i think i&amp;rsquo;m too young to know how rss feeds work. i also need to fix an issue with the&#xA;custom cursors where hovering over a hyperlinked image doesn&amp;rsquo;t give you the&#xA;hyperlink pointer. annoyinggggggggggg.&lt;/p&gt;</description>
     </item>
     <item>
       <title>test</title>
-      <link>https://periplaneta.neocities.org/posts/2024-02-27_test/</link>
+      <link>http://localhost:1313/posts/2024-02-27_test/</link>
       <pubDate>Tue, 27 Feb 2024 13:40:51 -0700</pubDate>
-      <guid>https://periplaneta.neocities.org/posts/2024-02-27_test/</guid>
-      <description>cock penis balls lol</description>
+      <guid>http://localhost:1313/posts/2024-02-27_test/</guid>
+      <description>&lt;p&gt;cock&#xA;penis &lt;em&gt;balls&lt;/em&gt; &lt;strong&gt;lol&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
